@@ -1,1 +1,1 @@
-I am learning git from master
+I am learning Git, and I love to learn something new every day.
