@@ -1,2 +1,1 @@
-I am hepsi
-Am leraning Git and GitHub
+I am learning git from master
